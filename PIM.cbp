@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Projeto1" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="default">
+				<Option output="PIM" prefix_auto="1" extension_auto="1" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+			</Target>
+		</Build>
+		<Unit filename="Consultar_usuario.h" />
+		<Unit filename="administracao.h">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="alterar.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="bancodedados.h">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="consultar.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="consultar.h">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="consultar_usuario.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="consultarbl.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="consultarbl.h">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="excluir.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="excluir.h">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="incluir.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="incluir.h">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ingresso.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ingresso.h" />
+		<Unit filename="login.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="login.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="questionario.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="questionario.h" />
+		<Unit filename="usuario.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
